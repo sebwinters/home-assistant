@@ -9,8 +9,7 @@ blueprint:
       name: Remote
       description: PhilipsFoH
       selector:
-        device:
-          id: a291ed23ce2976b2644298b509506a09
+        device: {}
     button_one_single_press:
       name: 1 button - Single press
       description: Action to run on a single press of the button 1
